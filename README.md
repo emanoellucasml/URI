@@ -1,2 +1,2 @@
 # URI
-Snippets of code that I made by solving the Uri Online Judge problems.
+Here are the snippets of code that I made by solving the problems from URI Online Judge. Most of them are written in C language.
